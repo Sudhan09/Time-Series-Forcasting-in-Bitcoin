@@ -26,3 +26,27 @@ If you're using a Jupyter Notebook, you can install packages directly:
 ```
 !pip install numpy pandas matplotlib tensorflow scikit-learn
 ```
+3. Run the notebook Open Jupyter Notebook and execute ```10_time_series_forecasting_in_tensorflow.ipynb step by step.```
+
+## 🔑 Key Features
+Load and visualize time series data using Pandas & Matplotlib.
+Preprocess the dataset for forecasting models.
+Build and evaluate deep learning models using TensorFlow/Keras.
+Experiment with different forecasting techniques.
+
+## 📦 Libraries Used
+This project primarily uses:
+
+TensorFlow – Deep learning framework
+Pandas – Data manipulation
+NumPy – Numerical computations
+Matplotlib – Data visualization
+Scikit-Learn – Data preprocessing
+
+## 🎯 Results & Learnings
+The project demonstrates how time series forecasting can be approached using machine learning. However, predicting financial prices remains highly uncertain due to market fluctuations.
+
+## 📌 Future Enhancements
+Try different neural network architectures (e.g., LSTMs, Transformers).
+Explore external features like market sentiment or trading volume.
+Improve hyperparameter tuning for better accuracy.
