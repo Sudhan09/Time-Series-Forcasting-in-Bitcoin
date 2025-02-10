@@ -1,0 +1,9 @@
+name: time_series_forecasting
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
+  - scikit-learn
+  - pip
