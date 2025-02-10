@@ -19,6 +19,6 @@ Alternatively, find the dataset on GitHub: [BTC_USD_2013-10-01_2021-05-18-CoinDe
    cd your-repo
 
 2. **Install dependencies You can use ```pip``` to install required packages**
-3. ```
-   pip install -r requirements.txt
-4. ```
+ ```
+pip install -r requirements.txt
+ ```
