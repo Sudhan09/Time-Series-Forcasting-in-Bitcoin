@@ -22,3 +22,7 @@ Alternatively, find the dataset on GitHub: [BTC_USD_2013-10-01_2021-05-18-CoinDe
  ```
 pip install -r requirements.txt
  ```
+If you're using a Jupyter Notebook, you can install packages directly:
+```
+!pip install numpy pandas matplotlib tensorflow scikit-learn
+```
