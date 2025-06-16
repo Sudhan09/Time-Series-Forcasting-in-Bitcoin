@@ -15,8 +15,7 @@ Alternatively, find the dataset on GitHub: [BTC_USD_2013-10-01_2021-05-18-CoinDe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sudhan09/time-series-forcasting.git
-   cd your-repo
+   https://github.com/Sudhan09/Time-Series-Forcasting-in-Bitcoin.git
 
 2. **Install dependencies You can use ```pip``` to install required packages**
  ```
